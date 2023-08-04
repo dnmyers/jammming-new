@@ -1,0 +1,27 @@
+.save-to-spotify-button {
+    cursor: pointer;
+    width: 10rem;
+    padding: .77rem 0;
+    border-radius: 54px;
+    border-width: 0px;
+    margin-top: 1.27rem;
+    background-color: #6c41ec;
+    text-align: center;
+    font-size: .83rem;
+    color: #fff;
+    font-weight: 500;
+    box-shadow: var(--box-shadow);
+    transition: background-color .3s;
+    /* position: absolute;
+    bottom: 2rem; */
+    /* left: 50%; */
+    /* transform: translateX(-50%); */
+    /* right: 50%; */
+}
+
+.save-to-spotify-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 2px 4px 3px 3px rgba(0, 0, 0, 0.8);
+    background-color: rgba(108, 65, 233, 0.7);
+    transition: all .3s ease-in-out;
+}
