@@ -62,10 +62,13 @@ Here are some potential areas for future enhancement and development of Jammming
 
 To get a local copy of Jammming up and running, follow these steps:
 
-    1. Clone the repository: git clone https://github.com/dnmyers/jammming.git
-    2. Install the dependencies: npm install
+    1. Clone the repository:
+        ```git clone https://github.com/dnmyers/jammming.git```
+    2. Install the dependencies:
+        ```npm install```
     3. Obtain a Spotify API key and configure it in your project.
-    4. Start the development server: npm start
+    4. Start the development server:
+        ```npm run dev```
     5. Open your browser and navigate to http://localhost:5173 to access Jammming.
 
 ## Contributing
