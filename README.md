@@ -16,7 +16,7 @@ Jammming is a React web application that allows users to search the Spotify libr
 
 ## Project Overview
 
-Jammming was developed as a capstone project for Codecademy's React skill path. The goal of the project was to utilize React components, state management, and API integration to create a functional and user-friendly web application.
+Jammming was developed as my capstone project for Codecademy's React skill path. The goal of the project was to utilize React components, state management, and API integration to create a functional and user-friendly web application.
 
 The main features of Jammming include:
 
